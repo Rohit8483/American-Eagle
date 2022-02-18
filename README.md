@@ -26,51 +26,35 @@
 
 - *Home Page*
 ##### Here is the landing page of American-Eagle clone
-![Landing Page](https://github.com/Rohit8483/American-Eagle/blob/main/bg%20image.JPG)
+![Landing Page](https://github.com/rubyroy21/American-Eagle/blob/main/images/landing_page.png)
 
 ---
 - *login Page*
 
-![Sign In Page](https://github.com/Vaman93/Ajio-Clone/blob/main/public/Images/ReadmeImg/singup%20page.png)
+![Sign In Page](https://github.com/rubyroy21/American-Eagle/blob/main/images/login_page.png)
 
 
 ---
 
 - *Products Page*
 ##### Here user can filter/Sort the products according to choice
-![Products Category Page](https://github.com/Vaman93/Ajio-Clone/blob/main/public/Images/ReadmeImg/product.png)
+![Products Category Page](https://github.com/rubyroy21/American-Eagle/blob/main/images/products_page.png)
 
 ---
 
 - *Product Description Page*
 ##### Here User can get more information about product
-![Product Details Page](https://github.com/Vaman93/Ajio-Clone/blob/main/public/Images/ReadmeImg/one%20product%20img.png)
+![Product Details Page](https://github.com/rubyroy21/American-Eagle/blob/main/images/product_preview.png)
 
 ---
-
-- *Bag Page*
-##### Here user get all product which they want to buy
-![Bag Page](https://github.com/Vaman93/Ajio-Clone/blob/main/public/Images/ReadmeImg/bag%20page.png)
-
----
-- *Closet List Page*
-##### here users can save their favorite products.
-![Closet List](https://github.com/Vaman93/Ajio-Clone/blob/main/public/Images/ReadmeImg/Closet.png)
-
 
 ---
 - *Payment Page*
 ##### here user will have to fill their payment details then they will be notified that their order has been placed.
-![Payment Page](https://github.com/Vaman93/Ajio-Clone/blob/main/public/Images/ReadmeImg/payment.png)
+![Payment Page](https://github.com/rubyroy21/American-Eagle/blob/main/images/payment.png)
 
 ---
 
----
-- *About Us Page*
-##### 
-![About Us Page](https://github.com/Vaman93/Ajio-Clone/blob/main/public/Images/ReadmeImg/about%20us%20img.png)
-
----
 
 
 ### How To Use 	📌
