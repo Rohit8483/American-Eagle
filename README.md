@@ -26,7 +26,7 @@
 
 - *Home Page*
 ##### Here is the landing page of American-Eagle clone
-![Landing Page](https://rubyroy21.github.io/American-Eagle/)
+![Landing Page](https://github.com/Rohit8483/American-Eagle/blob/main/bg%20image.JPG)
 
 ---
 - *login Page*
